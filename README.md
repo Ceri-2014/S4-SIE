@@ -7,7 +7,7 @@
   - [Cahier de spécifications techniques](CST.md)
   - [Maquettage de Produit](MaqProd.md)
   - [Planning Prévisionnel](PlaPrev.md)
-  - [Devis Associé](DevAssoc.md)
+  - [Budget](Budget.md)
   
 
 ## Introduction
