@@ -1,3 +1,2 @@
-#Planning Prévisionnel 
-##( 1er Juin 2014 / 1er version de test 1er Oct 2014)
+#Planning Prévisionnel ( 1 Juin 2014 / 1 Oct 2014 (Version test) / 1 Nov 2014 (Version Final))
 
