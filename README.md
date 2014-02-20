@@ -1,4 +1,4 @@
-S4-Systemes-d-Informations-d-Entreprise
+Systèmes d'Informations d'Entreprise
 =======================================
 
 Préparer les étudiants à construire des réponses fonctionnelles, techniques, financières, et organisationnelles aux besoins exprimés par un demandeur.
