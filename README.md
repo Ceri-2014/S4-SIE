@@ -3,7 +3,6 @@
 
 Sommaire :
   - [Index](README.md)
-  - [Appel d'Offre](doc/APL.md)
   - [Cahier de spécifications techniques](doc/CST.md)
   - [Maquettage de Produit](doc/MaqProd.md)
   - [Planning Prévisionnel](doc/PlaPrev.md)
