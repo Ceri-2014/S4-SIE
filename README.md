@@ -4,9 +4,9 @@
 Sommaire :
   - [Index](README.md)
   - [Appel d'Offre](doc/APL.md)
-  - [Cahier des Charges](doc/CDC.md)
+  - [Cahier de spécifications techniques](doc/CST.md)
   - [Maquettage de Produit](doc/MaqProd.md)
-  - [Planning Préviosionnel](doc/PlaPrev.md)
+  - [Planning Prévisionnel](doc/PlaPrev.md)
   - [Devis Associé](doc/DevAssoc.md)
 
 ============
