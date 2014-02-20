@@ -1,5 +1,5 @@
-Systèmes d'Informations d'Entreprise
-=================
+#Systèmes d'Informations d'Entreprise
+
 
 Sommaire :
   - [Index](README.md)
@@ -9,4 +9,4 @@ Sommaire :
   - [Planning Préviosionnel](doc/PlaPrev.md)
   - [Devis Associé](doc/DevAssoc.md)
 
-==================
+============
