@@ -3,10 +3,10 @@
 
 ## Sommaire :
   - [Index](README.md)
-  - [Cahier de spécifications techniques](doc/CST.md)
-  - [Maquettage de Produit](doc/MaqProd.md)
-  - [Planning Prévisionnel](doc/PlaPrev.md)
-  - [Devis Associé](doc/DevAssoc.md)
+  - [Cahier de spécifications techniques](CST.md)
+  - [Maquettage de Produit](MaqProd.md)
+  - [Planning Prévisionnel](PlaPrev.md)
+  - [Devis Associé](DevAssoc.md)
 
 ## Introduction
 
