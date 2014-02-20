@@ -9,9 +9,7 @@ ENTRE, d'une part :
 La société SelfAuto SA
 Sise 6 rue Boucicaut 69007 Lyon
 Prise en son représentant légal Richard Lepleigue
-Et,
-[Votre structure de groupe]
-représentée par
+Et, [Votre structure de groupe] représentée par
 2 - Définition de l’objet du marché :
 2.1 - Contexte et objet de la prestation :
 La société xxx souhaite développer une activité de location de véhicules « double commandes ».
@@ -24,18 +22,14 @@ L’interface utilisateur, que ce soit pour les clients ou les administrateurs, 
 L’informatique embarquée fait l’objet d’un contrat de développement avec une SSII ayant obtenu
 l’agrément du constructeur automobile.
 La prestation demandée pour ce marché se décrit comme :
-1.
-2.
-3.
-4.
-5.
-6.
-L’étude
-La conception (développement)
-L’implantation et le paramétrage
-La formation
-Le suivi sous garantie
-La maintenance et l’évolution
+1.L’étude
+2.La conception (développement)
+3.L’implantation et le paramétrage
+4.La formation
+5.Le suivi sous garantie
+6.La maintenance et l’évolution
+
+
 d’une application informatique logiciel de type client-serveur ou client-léger (web)
 pouvant être implanté sur les serveurs d’un hébergeur professionnel et permettant de
 traiter l’ensemble des fonctions et attendus dans la gestion
@@ -73,18 +67,14 @@ du projet et mettre en place des règles d’échanges, de réunions et de docum
 l’application finale.
 Parmi ces documents, qui pourront être au format numérique et/ou papier, doivent figurer
 impérativement
-o
-o
-o
-o
-o
-o
-Un manuel utilisateur
-Un manuel d’administration
-Un manuel d’exploitation
-Un manuel de maintenance
-Un manuel de test
-Un dossier de recette
+o Un manuel utilisateur
+o Un manuel d’administration
+o Un manuel d’exploitation
+o Un manuel de maintenance
+o Un manuel de test
+o Un dossier de recette
+
+
 Le prestataire prévoira de restituer le résultat de ces travaux lors d’une réunion du comité
 de Pilotage du PLIE.
 CERI – L2- TP SIE - Appel d’offre initial 3Le prestataire établira un rapport d’intervention.
@@ -95,16 +85,14 @@ réalisation du marché.
 Les prix présentés seront fermes et définitifs.
 Les prestations faisant l’objet du contrat seront réglées par application d’un prix global et
 forfaitaire qui devra être détaillé sur 6 points minimum :
-1.
-2.
-3.
-4.
-5.
-Coût et durée d’étude avec participations des acteurs
-Coût et durée de réalisation
-Coût et durée de l’implantation et du paramétrage
-Coût et durée des formations (administrateurs, acteurs pilotes, testeurs, utilisateurs finaux)
-Règles et délais de recette (dont règles et délais de garantie)
+
+1.Coût et durée d’étude avec participations des acteurs
+2.Coût et durée de réalisation
+3.Coût et durée de l’implantation et du paramétrage
+4.Coût et durée des formations (administrateurs, acteurs pilotes, testeurs, utilisateurs finaux)
+5.Règles et délais de recette (dont règles et délais de garantie)
+
+
 4 – Délais d’exécution :
 Les soumissionnaires disposent d’un délai de 90 jours pour soumettre leur réponse au client à
 compter du jour ou cet appel d’offre sera publié.
