@@ -3,8 +3,8 @@
 
 ## Sommaire :
   - [Index](README.md)
-  - [Cahiers des charges](CDC.md)
-  - [Cahier de spécifications techniques](CST.md)
+  - [Contrat](Contrat.md)
+  - [Cahiers des charges et spé technique](CDC.md)
   - [Maquettage de Produit](MaqProd.md)
   - [Planning Prévisionnel](PlaPrev.md)
   - [Budget](Budget.md)
