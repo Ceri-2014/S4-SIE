@@ -22,7 +22,7 @@ Ce faisant, le projet devra suivre les étapes habituelles à savoir :
 ### Equipe du projet
 * Membres
   - **TORET Valentin** aka blade72
-  - **BLASCO Michaël** aka AUTORiTY
+  - **BLASCO Michaël** akav SkyFurious
   - **GUICHARD Yoan**  aka Olfar
   - **HONEL Steve**    aka Wartax
 
